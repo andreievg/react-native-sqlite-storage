@@ -1,6 +1,6 @@
 # Why fork ?
 
-This for is for Android with latest sqlite (3.33.0), as per https://sqlite.org/android/doc/trunk/www/index.wiki
+This fork is for Android with latest sqlite (3.33.0), as per https://sqlite.org/android/doc/trunk/www/index.wiki
 
 Minimalistic changes: https://github.com/andreievg/react-native-sqlite-storage/commit/7aa8223a22c2c5fb414bc1a79060ce332232c83b
 

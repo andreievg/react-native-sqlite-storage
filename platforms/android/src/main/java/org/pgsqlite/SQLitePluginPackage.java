@@ -20,6 +20,12 @@ import java.util.List;
 
 public class SQLitePluginPackage implements ReactPackage {
 
+    // include sqlite https://sqlite.org/android/doc/trunk/www/usage.wiki
+    
+    static {
+      System.loadLibrary("sqliteX");
+    } 
+
     /**
      * @deprecated, use method without activity
      * activity parameter is ignored

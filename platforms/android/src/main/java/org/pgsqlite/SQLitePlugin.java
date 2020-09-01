@@ -9,9 +9,9 @@ package org.pgsqlite;
 
 import android.annotation.SuppressLint;
 import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteException;
-import android.database.sqlite.SQLiteStatement;
+import org.sqlite.database.sqlite.SQLiteDatabase;
+import org.sqlite.database.sqlite.SQLiteException;
+import org.sqlite.database.sqlite.SQLiteStatement;
 import android.content.Context;
 import android.util.Base64;
 
